@@ -13,4 +13,5 @@ Para poder recrear las gráficas y ejecutar las notebooks de Jupyter es necesari
 Para activar el ambiente se debe utilizar el siguiente comando:
 - En Windows, ejecuta: `activate clustering`.
 - En macOS y Linux, ejecuta: `source activate clustering`.
+
 Luego, para correr la notebook de Jupyter, ejecutar el comando: `jupyter notebook`.
